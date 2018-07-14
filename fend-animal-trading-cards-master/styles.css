@@ -1,0 +1,32 @@
+.div {
+  width: 325px;
+  height:575px;
+  border:1px solid gray;
+  box-shadow:2px 4px 8px 0 rgba(0, 0, 0, 0.1), 2px 6px 20px 0 rgba(0, 0, 0, 0.15);
+  }
+  .image {
+    width:300px;
+    margin:10px 20px 10px 20px;
+  }
+  .main {
+    margin:10px 20px 10px 20px;
+  }
+  .box {
+    border:1px solid gray;
+    height:300px;
+    width:300px;
+  }
+  .word {
+    font-style: italic;
+  }
+  .list {
+    margin:10px;
+    list-style-type: none;
+
+  }
+  .items {
+    font-weight: bold;
+  }
+  .para {
+      margin:10px;
+  }
